@@ -1,0 +1,601 @@
+From,To,Distance,Duration
+Pashupatinath Temple,Pashupatinath Temple,1 m,1 min
+Pashupatinath Temple,Boudhanath (Stupa),3.8 km,13 mins
+Pashupatinath Temple,Swayambhunath Stupa,7.9 km,27 mins
+Pashupatinath Temple,Kopan Monastery,5.3 km,18 mins
+Pashupatinath Temple,Garden of Dreams,3.6 km,13 mins
+Pashupatinath Temple,Kathmandu Durbar Square,6.3 km,22 mins
+Pashupatinath Temple,Buddha Nilkanth,9.0 km,24 mins
+Pashupatinath Temple,Narayanhiti Palace,4.2 km,13 mins
+Pashupatinath Temple,Indra Chowk,5.8 km,18 mins
+Pashupatinath Temple,Taudaha Lake,12.1 km,33 mins
+Boudhanath (Stupa),Pashupatinath Temple,3.7 km,13 mins
+Boudhanath (Stupa),Boudhanath (Stupa),1 m,1 min
+Boudhanath (Stupa),Swayambhunath Stupa,12.9 km,36 mins
+Boudhanath (Stupa),Kopan Monastery,3.1 km,12 mins
+Boudhanath (Stupa),Garden of Dreams,6.3 km,21 mins
+Boudhanath (Stupa),Kathmandu Durbar Square,8.0 km,30 mins
+Boudhanath (Stupa),Buddha Nilkanth,8.1 km,24 mins
+Boudhanath (Stupa),Narayanhiti Palace,6.9 km,21 mins
+Boudhanath (Stupa),Indra Chowk,8.7 km,27 mins
+Boudhanath (Stupa),Taudaha Lake,15.1 km,41 mins
+Swayambhunath Stupa,Pashupatinath Temple,8.1 km,24 mins
+Swayambhunath Stupa,Boudhanath (Stupa),10.2 km,32 mins
+Swayambhunath Stupa,Swayambhunath Stupa,1 m,1 min
+Swayambhunath Stupa,Kopan Monastery,12.4 km,36 mins
+Swayambhunath Stupa,Garden of Dreams,4.4 km,15 mins
+Swayambhunath Stupa,Kathmandu Durbar Square,3.7 km,12 mins
+Swayambhunath Stupa,Buddha Nilkanth,12.7 km,34 mins
+Swayambhunath Stupa,Narayanhiti Palace,4.7 km,15 mins
+Swayambhunath Stupa,Indra Chowk,6.6 km,20 mins
+Swayambhunath Stupa,Taudaha Lake,11.5 km,26 mins
+Kopan Monastery,Pashupatinath Temple,5.3 km,18 mins
+Kopan Monastery,Boudhanath (Stupa),3.1 km,12 mins
+Kopan Monastery,Swayambhunath Stupa,12.4 km,35 mins
+Kopan Monastery,Kopan Monastery,1 m,1 min
+Kopan Monastery,Garden of Dreams,8.8 km,24 mins
+Kopan Monastery,Kathmandu Durbar Square,10.5 km,33 mins
+Kopan Monastery,Buddha Nilkanth,6.1 km,18 mins
+Kopan Monastery,Narayanhiti Palace,7.6 km,23 mins
+Kopan Monastery,Indra Chowk,10.3 km,31 mins
+Kopan Monastery,Taudaha Lake,16.6 km,46 mins
+Garden of Dreams,Pashupatinath Temple,3.9 km,11 mins
+Garden of Dreams,Boudhanath (Stupa),6.9 km,20 mins
+Garden of Dreams,Swayambhunath Stupa,4.4 km,14 mins
+Garden of Dreams,Kopan Monastery,7.9 km,22 mins
+Garden of Dreams,Garden of Dreams,1 m,1 min
+Garden of Dreams,Kathmandu Durbar Square,1.7 km,9 mins
+Garden of Dreams,Buddha Nilkanth,9.1 km,23 mins
+Garden of Dreams,Narayanhiti Palace,0.8 km,3 mins
+Garden of Dreams,Indra Chowk,3.3 km,10 mins
+Garden of Dreams,Taudaha Lake,11.3 km,25 mins
+Kathmandu Durbar Square,Pashupatinath Temple,5.7 km,20 mins
+Kathmandu Durbar Square,Boudhanath (Stupa),8.7 km,29 mins
+Kathmandu Durbar Square,Swayambhunath Stupa,3.7 km,12 mins
+Kathmandu Durbar Square,Kopan Monastery,9.8 km,32 mins
+Kathmandu Durbar Square,Garden of Dreams,1.9 km,10 mins
+Kathmandu Durbar Square,Kathmandu Durbar Square,1 m,1 min
+Kathmandu Durbar Square,Buddha Nilkanth,10.9 km,32 mins
+Kathmandu Durbar Square,Narayanhiti Palace,2.7 km,12 mins
+Kathmandu Durbar Square,Indra Chowk,3.9 km,13 mins
+Kathmandu Durbar Square,Taudaha Lake,8.5 km,21 mins
+Buddha Nilkanth,Pashupatinath Temple,8.9 km,24 mins
+Buddha Nilkanth,Boudhanath (Stupa),7.9 km,25 mins
+Buddha Nilkanth,Swayambhunath Stupa,12.6 km,34 mins
+Buddha Nilkanth,Kopan Monastery,6.0 km,18 mins
+Buddha Nilkanth,Garden of Dreams,9.0 km,24 mins
+Buddha Nilkanth,Kathmandu Durbar Square,10.7 km,33 mins
+Buddha Nilkanth,Buddha Nilkanth,1 m,1 min
+Buddha Nilkanth,Narayanhiti Palace,8.9 km,24 mins
+Buddha Nilkanth,Indra Chowk,12.1 km,33 mins
+Buddha Nilkanth,Taudaha Lake,20.1 km,48 mins
+Narayanhiti Palace,Pashupatinath Temple,3.7 km,11 mins
+Narayanhiti Palace,Boudhanath (Stupa),6.7 km,20 mins
+Narayanhiti Palace,Swayambhunath Stupa,5.0 km,16 mins
+Narayanhiti Palace,Kopan Monastery,7.6 km,22 mins
+Narayanhiti Palace,Garden of Dreams,0.9 km,3 mins
+Narayanhiti Palace,Kathmandu Durbar Square,2.6 km,12 mins
+Narayanhiti Palace,Buddha Nilkanth,9.0 km,23 mins
+Narayanhiti Palace,Narayanhiti Palace,1 m,1 min
+Narayanhiti Palace,Indra Chowk,3.6 km,11 mins
+Narayanhiti Palace,Taudaha Lake,11.6 km,27 mins
+Indra Chowk,Pashupatinath Temple,5.0 km,16 mins
+Indra Chowk,Boudhanath (Stupa),8.0 km,26 mins
+Indra Chowk,Swayambhunath Stupa,3.3 km,14 mins
+Indra Chowk,Kopan Monastery,9.8 km,29 mins
+Indra Chowk,Garden of Dreams,1.9 km,7 mins
+Indra Chowk,Kathmandu Durbar Square,0.6 km,3 mins
+Indra Chowk,Buddha Nilkanth,10.9 km,29 mins
+Indra Chowk,Narayanhiti Palace,2.7 km,9 mins
+Indra Chowk,Indra Chowk,1 m,1 min
+Indra Chowk,Taudaha Lake,9.9 km,25 mins
+Taudaha Lake,Pashupatinath Temple,14.4 km,35 mins
+Taudaha Lake,Boudhanath (Stupa),17.4 km,44 mins
+Taudaha Lake,Swayambhunath Stupa,11.5 km,27 mins
+Taudaha Lake,Kopan Monastery,18.9 km,49 mins
+Taudaha Lake,Garden of Dreams,10.7 km,26 mins
+Taudaha Lake,Kathmandu Durbar Square,8.5 km,22 mins
+Taudaha Lake,Buddha Nilkanth,19.7 km,48 mins
+Taudaha Lake,Narayanhiti Palace,11.5 km,28 mins
+Taudaha Lake,Indra Chowk,10.2 km,26 mins
+Taudaha Lake,Taudaha Lake,1 m,1 min
+Pashupatinath Temple,Kathesimbhu Stupa,4.6 km,19 mins
+Pashupatinath Temple,Dakshinkali Temple,22.4 km,54 mins
+Pashupatinath Temple,National Museum of Nepal,8.5 km,22 mins
+Pashupatinath Temple,White Monastery,3.8 km,12 mins
+Pashupatinath Temple,Royal Botanical Gardens,18.1 km,41 mins
+Pashupatinath Temple,Basantapur Tower,6.0 km,19 mins
+Pashupatinath Temple,Khawalung Monastery,4.4 km,15 mins
+Pashupatinath Temple,Patan Durbar Square,6.9 km,20 mins
+Pashupatinath Temple,Nagarkot,25.8 km,59 mins
+Pashupatinath Temple,Chandragiri,15.1 km,40 mins
+Boudhanath (Stupa),Kathesimbhu Stupa,7.3 km,27 mins
+Boudhanath (Stupa),Dakshinkali Temple,25.4 km,1 hour 2 mins
+Boudhanath (Stupa),National Museum of Nepal,11.4 km,31 mins
+Boudhanath (Stupa),White Monastery,1.2 km,6 mins
+Boudhanath (Stupa),Royal Botanical Gardens,21.7 km,51 mins
+Boudhanath (Stupa),Basantapur Tower,8.9 km,28 mins
+Boudhanath (Stupa),Khawalung Monastery,1.8 km,8 mins
+Boudhanath (Stupa),Patan Durbar Square,10.4 km,30 mins
+Boudhanath (Stupa),Nagarkot,25.5 km,1 hour 4 mins
+Boudhanath (Stupa),Chandragiri,18.1 km,49 mins
+Swayambhunath Stupa,Kathesimbhu Stupa,3.2 km,13 mins
+Swayambhunath Stupa,Dakshinkali Temple,21.7 km,47 mins
+Swayambhunath Stupa,National Museum of Nepal,1.6 km,6 mins
+Swayambhunath Stupa,White Monastery,10.2 km,31 mins
+Swayambhunath Stupa,Royal Botanical Gardens,20.9 km,47 mins
+Swayambhunath Stupa,Basantapur Tower,4.3 km,16 mins
+Swayambhunath Stupa,Khawalung Monastery,10.6 km,33 mins
+Swayambhunath Stupa,Patan Durbar Square,8.0 km,23 mins
+Swayambhunath Stupa,Nagarkot,31.3 km,1 hour 14 mins
+Swayambhunath Stupa,Chandragiri,10.2 km,28 mins
+Kopan Monastery,Kathesimbhu Stupa,9.8 km,30 mins
+Kopan Monastery,Dakshinkali Temple,26.9 km,1 hour 7 mins
+Kopan Monastery,National Museum of Nepal,12.5 km,35 mins
+Kopan Monastery,White Monastery,3.5 km,12 mins
+Kopan Monastery,Royal Botanical Gardens,23.2 km,57 mins
+Kopan Monastery,Basantapur Tower,10.5 km,33 mins
+Kopan Monastery,Khawalung Monastery,1.7 km,7 mins
+Kopan Monastery,Patan Durbar Square,11.0 km,34 mins
+Kopan Monastery,Nagarkot,27.7 km,1 hour 11 mins
+Kopan Monastery,Chandragiri,20.7 km,54 mins
+Garden of Dreams,Kathesimbhu Stupa,1.0 km,6 mins
+Garden of Dreams,Dakshinkali Temple,21.6 km,46 mins
+Garden of Dreams,National Museum of Nepal,5.0 km,12 mins
+Garden of Dreams,White Monastery,7.0 km,19 mins
+Garden of Dreams,Royal Botanical Gardens,18.5 km,43 mins
+Garden of Dreams,Basantapur Tower,3.5 km,11 mins
+Garden of Dreams,Khawalung Monastery,7.5 km,22 mins
+Garden of Dreams,Patan Durbar Square,6.0 km,16 mins
+Garden of Dreams,Nagarkot,28.2 km,1 hour 5 mins
+Garden of Dreams,Chandragiri,12.7 km,32 mins
+Kathmandu Durbar Square,Kathesimbhu Stupa,1.1 km,6 mins
+Kathmandu Durbar Square,Dakshinkali Temple,18.7 km,42 mins
+Kathmandu Durbar Square,National Museum of Nepal,2.0 km,6 mins
+Kathmandu Durbar Square,White Monastery,8.8 km,28 mins
+Kathmandu Durbar Square,Royal Botanical Gardens,17.7 km,41 mins
+Kathmandu Durbar Square,Basantapur Tower,1.0 km,6 mins
+Kathmandu Durbar Square,Khawalung Monastery,8.8 km,30 mins
+Kathmandu Durbar Square,Patan Durbar Square,5.4 km,16 mins
+Kathmandu Durbar Square,Nagarkot,28.6 km,1 hour 7 mins
+Kathmandu Durbar Square,Chandragiri,9.5 km,27 mins
+Buddha Nilkanth,Kathesimbhu Stupa,10.0 km,29 mins
+Buddha Nilkanth,Dakshinkali Temple,30.4 km,1 hour 9 mins
+Buddha Nilkanth,National Museum of Nepal,12.7 km,34 mins
+Buddha Nilkanth,White Monastery,8.3 km,25 mins
+Buddha Nilkanth,Royal Botanical Gardens,26.8 km,1 hour 3 mins
+Buddha Nilkanth,Basantapur Tower,12.3 km,34 mins
+Buddha Nilkanth,Khawalung Monastery,6.5 km,20 mins
+Buddha Nilkanth,Patan Durbar Square,14.9 km,39 mins
+Buddha Nilkanth,Nagarkot,33.9 km,1 hour 20 mins
+Buddha Nilkanth,Chandragiri,20.9 km,53 mins
+Narayanhiti Palace,Kathesimbhu Stupa,1.9 km,9 mins
+Narayanhiti Palace,Dakshinkali Temple,21.8 km,48 mins
+Narayanhiti Palace,National Museum of Nepal,5.6 km,15 mins
+Narayanhiti Palace,White Monastery,6.7 km,19 mins
+Narayanhiti Palace,Royal Botanical Gardens,18.8 km,44 mins
+Narayanhiti Palace,Basantapur Tower,3.8 km,13 mins
+Narayanhiti Palace,Khawalung Monastery,6.7 km,21 mins
+Narayanhiti Palace,Patan Durbar Square,6.3 km,17 mins
+Narayanhiti Palace,Nagarkot,28.0 km,1 hour 5 mins
+Narayanhiti Palace,Chandragiri,13.0 km,33 mins
+Indra Chowk,Kathesimbhu Stupa,0.6 km,3 mins
+Indra Chowk,Dakshinkali Temple,20.2 km,46 mins
+Indra Chowk,National Museum of Nepal,3.3 km,10 mins
+Indra Chowk,White Monastery,8.1 km,24 mins
+Indra Chowk,Royal Botanical Gardens,18.7 km,45 mins
+Indra Chowk,Basantapur Tower,0.8 km,5 mins
+Indra Chowk,Khawalung Monastery,8.6 km,27 mins
+Indra Chowk,Patan Durbar Square,6.2 km,18 mins
+Indra Chowk,Nagarkot,28.4 km,1 hour 7 mins
+Indra Chowk,Chandragiri,10.8 km,31 mins
+Taudaha Lake,Kathesimbhu Stupa,9.9 km,26 mins
+Taudaha Lake,Dakshinkali Temple,10.4 km,21 mins
+Taudaha Lake,National Museum of Nepal,10.0 km,22 mins
+Taudaha Lake,White Monastery,17.5 km,43 mins
+Taudaha Lake,Royal Botanical Gardens,16.7 km,39 mins
+Taudaha Lake,Basantapur Tower,8.5 km,24 mins
+Taudaha Lake,Khawalung Monastery,18.0 km,46 mins
+Taudaha Lake,Patan Durbar Square,6.7 km,20 mins
+Taudaha Lake,Nagarkot,31.3 km,1 hour 12 mins
+Taudaha Lake,Chandragiri,14.1 km,32 mins
+Pashupatinath Temple,Shivapuri Nagarjun National Park,33.3 km,1 hour 36 mins
+Pashupatinath Temple,Bhaktapur Durbar Square,18.2 km,40 mins
+Pashupatinath Temple,Phulchoki,24.8 km,1 hour 2 mins
+Pashupatinath Temple,Kulekhani,36.4 km,1 hour 31 mins
+Pashupatinath Temple,Namo Buddha,39.4 km,1 hour 24 mins
+Pashupatinath Temple,Jump KTM,3.4 km,11 mins
+Pashupatinath Temple,Art in Paradise Nepal,5.0 km,16 mins
+Pashupatinath Temple,Whoopee Land,11.6 km,34 mins
+Pashupatinath Temple,Kathmandu Fun Park,4.0 km,12 mins
+Pashupatinath Temple,Outdoor Adventure Centre Nepal,4.4 km,16 mins
+Boudhanath (Stupa),Shivapuri Nagarjun National Park,32.6 km,1 hour 38 mins
+Boudhanath (Stupa),Bhaktapur Durbar Square,17.9 km,45 mins
+Boudhanath (Stupa),Phulchoki,28.4 km,1 hour 12 mins
+Boudhanath (Stupa),Kulekhani,39.4 km,1 hour 40 mins
+Boudhanath (Stupa),Namo Buddha,40.0 km,1 hour 31 mins
+Boudhanath (Stupa),Jump KTM,3.3 km,13 mins
+Boudhanath (Stupa),Art in Paradise Nepal,7.9 km,24 mins
+Boudhanath (Stupa),Whoopee Land,14.6 km,42 mins
+Boudhanath (Stupa),Kathmandu Fun Park,7.0 km,21 mins
+Boudhanath (Stupa),Outdoor Adventure Centre Nepal,7.1 km,24 mins
+Swayambhunath Stupa,Shivapuri Nagarjun National Park,31.5 km,1 hour 38 mins
+Swayambhunath Stupa,Bhaktapur Durbar Square,23.7 km,55 mins
+Swayambhunath Stupa,Phulchoki,27.1 km,1 hour 5 mins
+Swayambhunath Stupa,Kulekhani,35.7 km,1 hour 24 mins
+Swayambhunath Stupa,Namo Buddha,44.9 km,1 hour 39 mins
+Swayambhunath Stupa,Jump KTM,9.2 km,26 mins
+Swayambhunath Stupa,Art in Paradise Nepal,5.8 km,17 mins
+Swayambhunath Stupa,Whoopee Land,9.4 km,26 mins
+Swayambhunath Stupa,Kathmandu Fun Park,6.4 km,20 mins
+Swayambhunath Stupa,Outdoor Adventure Centre Nepal,3.9 km,13 mins
+Kopan Monastery,Shivapuri Nagarjun National Park,30.7 km,1 hour 31 mins
+Kopan Monastery,Bhaktapur Durbar Square,20.1 km,52 mins
+Kopan Monastery,Phulchoki,30.0 km,1 hour 17 mins
+Kopan Monastery,Kulekhani,40.9 km,1 hour 45 mins
+Kopan Monastery,Namo Buddha,42.2 km,1 hour 38 mins
+Kopan Monastery,Jump KTM,3.3 km,11 mins
+Kopan Monastery,Art in Paradise Nepal,9.5 km,29 mins
+Kopan Monastery,Whoopee Land,16.1 km,47 mins
+Kopan Monastery,Kathmandu Fun Park,8.5 km,26 mins
+Kopan Monastery,Outdoor Adventure Centre Nepal,9.1 km,26 mins
+Garden of Dreams,Shivapuri Nagarjun National Park,32.0 km,1 hour 34 mins
+Garden of Dreams,Bhaktapur Durbar Square,20.6 km,46 mins
+Garden of Dreams,Phulchoki,24.8 km,1 hour 1 min
+Garden of Dreams,Kulekhani,35.6 km,1 hour 24 mins
+Garden of Dreams,Namo Buddha,41.8 km,1 hour 30 mins
+Garden of Dreams,Jump KTM,5.1 km,14 mins
+Garden of Dreams,Art in Paradise Nepal,2.5 km,8 mins
+Garden of Dreams,Whoopee Land,9.2 km,26 mins
+Garden of Dreams,Kathmandu Fun Park,2.1 km,6 mins
+Garden of Dreams,Outdoor Adventure Centre Nepal,0.5 km,3 mins
+Kathmandu Durbar Square,Shivapuri Nagarjun National Park,31.8 km,1 hour 39 mins
+Kathmandu Durbar Square,Bhaktapur Durbar Square,21.0 km,49 mins
+Kathmandu Durbar Square,Phulchoki,24.0 km,59 mins
+Kathmandu Durbar Square,Kulekhani,32.8 km,1 hour 20 mins
+Kathmandu Durbar Square,Namo Buddha,42.2 km,1 hour 33 mins
+Kathmandu Durbar Square,Jump KTM,6.9 km,23 mins
+Kathmandu Durbar Square,Art in Paradise Nepal,3.1 km,10 mins
+Kathmandu Durbar Square,Whoopee Land,6.4 km,21 mins
+Kathmandu Durbar Square,Kathmandu Fun Park,4.6 km,14 mins
+Kathmandu Durbar Square,Outdoor Adventure Centre Nepal,2.2 km,11 mins
+Buddha Nilkanth,Shivapuri Nagarjun National Park,29.4 km,1 hour 27 mins
+Buddha Nilkanth,Bhaktapur Durbar Square,26.3 km,1 hour 1 min
+Buddha Nilkanth,Phulchoki,33.6 km,1 hour 23 mins
+Buddha Nilkanth,Kulekhani,44.4 km,1 hour 47 mins
+Buddha Nilkanth,Namo Buddha,48.2 km,1 hour 46 mins
+Buddha Nilkanth,Jump KTM,5.5 km,14 mins
+Buddha Nilkanth,Art in Paradise Nepal,11.3 km,30 mins
+Buddha Nilkanth,Whoopee Land,18.0 km,48 mins
+Buddha Nilkanth,Kathmandu Fun Park,10.9 km,29 mins
+Buddha Nilkanth,Outdoor Adventure Centre Nepal,9.2 km,25 mins
+Narayanhiti Palace,Shivapuri Nagarjun National Park,32.0 km,1 hour 34 mins
+Narayanhiti Palace,Bhaktapur Durbar Square,20.4 km,47 mins
+Narayanhiti Palace,Phulchoki,25.1 km,1 hour 2 mins
+Narayanhiti Palace,Kulekhani,35.8 km,1 hour 26 mins
+Narayanhiti Palace,Namo Buddha,41.7 km,1 hour 31 mins
+Narayanhiti Palace,Jump KTM,4.7 km,13 mins
+Narayanhiti Palace,Art in Paradise Nepal,2.8 km,9 mins
+Narayanhiti Palace,Whoopee Land,9.5 km,27 mins
+Narayanhiti Palace,Kathmandu Fun Park,2.4 km,7 mins
+Narayanhiti Palace,Outdoor Adventure Centre Nepal,1.5 km,5 mins
+Indra Chowk,Shivapuri Nagarjun National Park,33.9 km,1 hour 40 mins
+Indra Chowk,Bhaktapur Durbar Square,20.8 km,48 mins
+Indra Chowk,Phulchoki,25.0 km,1 hour 3 mins
+Indra Chowk,Kulekhani,34.2 km,1 hour 24 mins
+Indra Chowk,Namo Buddha,42.0 km,1 hour 32 mins
+Indra Chowk,Jump KTM,6.9 km,20 mins
+Indra Chowk,Art in Paradise Nepal,0.8 km,5 mins
+Indra Chowk,Whoopee Land,7.9 km,25 mins
+Indra Chowk,Kathmandu Fun Park,2.3 km,8 mins
+Indra Chowk,Outdoor Adventure Centre Nepal,1.4 km,8 mins
+Taudaha Lake,Shivapuri Nagarjun National Park,41.1 km,1 hour 56 mins
+Taudaha Lake,Bhaktapur Durbar Square,23.6 km,53 mins
+Taudaha Lake,Phulchoki,21.4 km,53 mins
+Taudaha Lake,Kulekhani,24.4 km,59 mins
+Taudaha Lake,Namo Buddha,44.9 km,1 hour 37 mins
+Taudaha Lake,Jump KTM,15.7 km,39 mins
+Taudaha Lake,Art in Paradise Nepal,9.4 km,24 mins
+Taudaha Lake,Whoopee Land,2.8 km,8 mins
+Taudaha Lake,Kathmandu Fun Park,9.3 km,26 mins
+Taudaha Lake,Outdoor Adventure Centre Nepal,11.0 km,27 mins
+Kathesimbhu Stupa,Kathesimbhu Stupa,1 m,1 min
+Kathesimbhu Stupa,Dakshinkali Temple,20.4 km,46 mins
+Kathesimbhu Stupa,National Museum of Nepal,3.5 km,10 mins
+Kathesimbhu Stupa,White Monastery,7.9 km,23 mins
+Kathesimbhu Stupa,Royal Botanical Gardens,19.3 km,45 mins
+Kathesimbhu Stupa,Basantapur Tower,3.1 km,13 mins
+Kathesimbhu Stupa,Khawalung Monastery,8.5 km,26 mins
+Kathesimbhu Stupa,Patan Durbar Square,6.8 km,20 mins
+Kathesimbhu Stupa,Nagarkot,29.1 km,1 hour 9 mins
+Kathesimbhu Stupa,Chandragiri,11.0 km,30 mins
+Dakshinkali Temple,Kathesimbhu Stupa,20.2 km,48 mins
+Dakshinkali Temple,Dakshinkali Temple,1 m,1 min
+Dakshinkali Temple,National Museum of Nepal,20.3 km,44 mins
+Dakshinkali Temple,White Monastery,27.7 km,1 hour 5 mins
+Dakshinkali Temple,Royal Botanical Gardens,27.0 km,1 hour 1 min
+Dakshinkali Temple,Basantapur Tower,18.7 km,46 mins
+Dakshinkali Temple,Khawalung Monastery,28.3 km,1 hour 8 mins
+Dakshinkali Temple,Patan Durbar Square,17.0 km,42 mins
+Dakshinkali Temple,Nagarkot,41.5 km,1 hour 34 mins
+Dakshinkali Temple,Chandragiri,24.3 km,54 mins
+National Museum of Nepal,Kathesimbhu Stupa,3.5 km,10 mins
+National Museum of Nepal,Dakshinkali Temple,20.3 km,41 mins
+National Museum of Nepal,National Museum of Nepal,1 m,1 min
+National Museum of Nepal,White Monastery,10.9 km,29 mins
+National Museum of Nepal,Royal Botanical Gardens,19.4 km,41 mins
+National Museum of Nepal,Basantapur Tower,2.7 km,9 mins
+National Museum of Nepal,Khawalung Monastery,11.2 km,31 mins
+National Museum of Nepal,Patan Durbar Square,6.4 km,17 mins
+National Museum of Nepal,Nagarkot,29.7 km,1 hour 8 mins
+National Museum of Nepal,Chandragiri,8.8 km,22 mins
+White Monastery,Kathesimbhu Stupa,7.4 km,26 mins
+White Monastery,Dakshinkali Temple,25.4 km,1 hour 2 mins
+White Monastery,National Museum of Nepal,11.5 km,30 mins
+White Monastery,White Monastery,1 m,1 min
+White Monastery,Royal Botanical Gardens,21.0 km,50 mins
+White Monastery,Basantapur Tower,9.0 km,28 mins
+White Monastery,Khawalung Monastery,2.2 km,8 mins
+White Monastery,Patan Durbar Square,10.5 km,30 mins
+White Monastery,Nagarkot,24.6 km,59 mins
+White Monastery,Chandragiri,18.1 km,48 mins
+Royal Botanical Gardens,Kathesimbhu Stupa,19.0 km,47 mins
+Royal Botanical Gardens,Dakshinkali Temple,27.0 km,1 hour 1 min
+Royal Botanical Gardens,National Museum of Nepal,19.4 km,44 mins
+Royal Botanical Gardens,White Monastery,21.8 km,52 mins
+Royal Botanical Gardens,Royal Botanical Gardens,1 m,1 min
+Royal Botanical Gardens,Basantapur Tower,17.6 km,45 mins
+Royal Botanical Gardens,Khawalung Monastery,22.3 km,55 mins
+Royal Botanical Gardens,Patan Durbar Square,12.8 km,33 mins
+Royal Botanical Gardens,Nagarkot,35.6 km,1 hour 21 mins
+Royal Botanical Gardens,Chandragiri,23.5 km,55 mins
+Basantapur Tower,Kathesimbhu Stupa,1.2 km,7 mins
+Basantapur Tower,Dakshinkali Temple,18.7 km,44 mins
+Basantapur Tower,National Museum of Nepal,2.7 km,10 mins
+Basantapur Tower,White Monastery,8.2 km,25 mins
+Basantapur Tower,Royal Botanical Gardens,17.3 km,43 mins
+Basantapur Tower,Basantapur Tower,1 m,1 min
+Basantapur Tower,Khawalung Monastery,8.8 km,28 mins
+Basantapur Tower,Patan Durbar Square,4.8 km,17 mins
+Basantapur Tower,Nagarkot,28.5 km,1 hour 7 mins
+Basantapur Tower,Chandragiri,9.9 km,29 mins
+Khawalung Monastery,Kathesimbhu Stupa,7.9 km,27 mins
+Khawalung Monastery,Dakshinkali Temple,26.0 km,1 hour 4 mins
+Khawalung Monastery,National Museum of Nepal,11.6 km,34 mins
+Khawalung Monastery,White Monastery,2.3 km,8 mins
+Khawalung Monastery,Royal Botanical Gardens,22.3 km,54 mins
+Khawalung Monastery,Basantapur Tower,9.6 km,30 mins
+Khawalung Monastery,Khawalung Monastery,1 m,1 min
+Khawalung Monastery,Patan Durbar Square,10.1 km,31 mins
+Khawalung Monastery,Nagarkot,26.6 km,1 hour 6 mins
+Khawalung Monastery,Chandragiri,18.7 km,51 mins
+Patan Durbar Square,Kathesimbhu Stupa,5.2 km,19 mins
+Patan Durbar Square,Dakshinkali Temple,16.9 km,39 mins
+Patan Durbar Square,National Museum of Nepal,6.0 km,16 mins
+Patan Durbar Square,White Monastery,9.3 km,28 mins
+Patan Durbar Square,Royal Botanical Gardens,12.5 km,30 mins
+Patan Durbar Square,Basantapur Tower,4.4 km,16 mins
+Patan Durbar Square,Khawalung Monastery,9.8 km,31 mins
+Patan Durbar Square,Patan Durbar Square,1 m,1 min
+Patan Durbar Square,Nagarkot,24.9 km,58 mins
+Patan Durbar Square,Chandragiri,11.9 km,32 mins
+Nagarkot,Kathesimbhu Stupa,28.0 km,1 hour 10 mins
+Nagarkot,Dakshinkali Temple,41.3 km,1 hour 34 mins
+Nagarkot,National Museum of Nepal,29.4 km,1 hour 9 mins
+Nagarkot,White Monastery,24.4 km,1 hour 1 min
+Nagarkot,Royal Botanical Gardens,35.3 km,1 hour 20 mins
+Nagarkot,Basantapur Tower,27.6 km,1 hour 8 mins
+Nagarkot,Khawalung Monastery,26.4 km,1 hour 7 mins
+Nagarkot,Patan Durbar Square,24.7 km,1 hour 1 min
+Nagarkot,Nagarkot,1 m,1 min
+Nagarkot,Chandragiri,36.0 km,1 hour 27 mins
+Chandragiri,Kathesimbhu Stupa,10.9 km,32 mins
+Chandragiri,Dakshinkali Temple,24.4 km,54 mins
+Chandragiri,National Museum of Nepal,8.7 km,24 mins
+Chandragiri,White Monastery,18.3 km,50 mins
+Chandragiri,Royal Botanical Gardens,23.5 km,54 mins
+Chandragiri,Basantapur Tower,9.8 km,30 mins
+Chandragiri,Khawalung Monastery,18.8 km,53 mins
+Chandragiri,Patan Durbar Square,12.1 km,33 mins
+Chandragiri,Nagarkot,36.3 km,1 hour 27 mins
+Chandragiri,Chandragiri,1 m,1 min
+Kathesimbhu Stupa,Shivapuri Nagarjun National Park,30.7 km,1 hour 37 mins
+Kathesimbhu Stupa,Bhaktapur Durbar Square,21.5 km,50 mins
+Kathesimbhu Stupa,Phulchoki,25.6 km,1 hour 3 mins
+Kathesimbhu Stupa,Kulekhani,34.4 km,1 hour 24 mins
+Kathesimbhu Stupa,Namo Buddha,42.8 km,1 hour 34 mins
+Kathesimbhu Stupa,Jump KTM,6.0 km,18 mins
+Kathesimbhu Stupa,Art in Paradise Nepal,3.4 km,12 mins
+Kathesimbhu Stupa,Whoopee Land,8.0 km,25 mins
+Kathesimbhu Stupa,Kathmandu Fun Park,3.1 km,10 mins
+Kathesimbhu Stupa,Outdoor Adventure Centre Nepal,1.0 km,6 mins
+Dakshinkali Temple,Shivapuri Nagarjun National Park,51.3 km,2 hours 18 mins
+Dakshinkali Temple,Bhaktapur Durbar Square,33.9 km,1 hour 15 mins
+Dakshinkali Temple,Phulchoki,31.7 km,1 hour 15 mins
+Dakshinkali Temple,Kulekhani,14.2 km,39 mins
+Dakshinkali Temple,Namo Buddha,55.1 km,1 hour 59 mins
+Dakshinkali Temple,Jump KTM,26.0 km,1 hour 1 min
+Dakshinkali Temple,Art in Paradise Nepal,19.7 km,46 mins
+Dakshinkali Temple,Whoopee Land,13.0 km,30 mins
+Dakshinkali Temple,Kathmandu Fun Park,19.6 km,48 mins
+Dakshinkali Temple,Outdoor Adventure Centre Nepal,21.2 km,49 mins
+National Museum of Nepal,Shivapuri Nagarjun National Park,31.6 km,1 hour 37 mins
+National Museum of Nepal,Bhaktapur Durbar Square,22.0 km,49 mins
+National Museum of Nepal,Phulchoki,25.7 km,59 mins
+National Museum of Nepal,Kulekhani,34.3 km,1 hour 19 mins
+National Museum of Nepal,Namo Buddha,43.3 km,1 hour 33 mins
+National Museum of Nepal,Jump KTM,9.3 km,24 mins
+National Museum of Nepal,Art in Paradise Nepal,4.2 km,11 mins
+National Museum of Nepal,Whoopee Land,8.0 km,20 mins
+National Museum of Nepal,Kathmandu Fun Park,5.6 km,14 mins
+National Museum of Nepal,Outdoor Adventure Centre Nepal,4.5 km,11 mins
+White Monastery,Shivapuri Nagarjun National Park,33.0 km,1 hour 38 mins
+White Monastery,Bhaktapur Durbar Square,17.0 km,41 mins
+White Monastery,Phulchoki,27.8 km,1 hour 11 mins
+White Monastery,Kulekhani,39.4 km,1 hour 40 mins
+White Monastery,Namo Buddha,39.1 km,1 hour 27 mins
+White Monastery,Jump KTM,3.7 km,13 mins
+White Monastery,Art in Paradise Nepal,8.0 km,24 mins
+White Monastery,Whoopee Land,14.6 km,42 mins
+White Monastery,Kathmandu Fun Park,7.0 km,20 mins
+White Monastery,Outdoor Adventure Centre Nepal,7.1 km,23 mins
+Royal Botanical Gardens,Shivapuri Nagarjun National Park,51.2 km,2 hours 16 mins
+Royal Botanical Gardens,Bhaktapur Durbar Square,28.0 km,1 hour 2 mins
+Royal Botanical Gardens,Phulchoki,12.0 km,37 mins
+Royal Botanical Gardens,Kulekhani,41.0 km,1 hour 38 mins
+Royal Botanical Gardens,Namo Buddha,49.2 km,1 hour 46 mins
+Royal Botanical Gardens,Jump KTM,21.4 km,51 mins
+Royal Botanical Gardens,Art in Paradise Nepal,17.1 km,42 mins
+Royal Botanical Gardens,Whoopee Land,16.5 km,42 mins
+Royal Botanical Gardens,Kathmandu Fun Park,17.6 km,44 mins
+Royal Botanical Gardens,Outdoor Adventure Centre Nepal,19.2 km,47 mins
+Basantapur Tower,Shivapuri Nagarjun National Park,34.0 km,1 hour 41 mins
+Basantapur Tower,Bhaktapur Durbar Square,20.9 km,49 mins
+Basantapur Tower,Phulchoki,23.6 km,1 hour 1 min
+Basantapur Tower,Kulekhani,32.7 km,1 hour 21 mins
+Basantapur Tower,Namo Buddha,42.1 km,1 hour 33 mins
+Basantapur Tower,Jump KTM,7.0 km,21 mins
+Basantapur Tower,Art in Paradise Nepal,0.8 km,5 mins
+Basantapur Tower,Whoopee Land,6.3 km,23 mins
+Basantapur Tower,Kathmandu Fun Park,2.5 km,9 mins
+Basantapur Tower,Outdoor Adventure Centre Nepal,2.9 km,10 mins
+Khawalung Monastery,Shivapuri Nagarjun National Park,31.1 km,1 hour 33 mins
+Khawalung Monastery,Bhaktapur Durbar Square,19.0 km,47 mins
+Khawalung Monastery,Phulchoki,29.0 km,1 hour 14 mins
+Khawalung Monastery,Kulekhani,40.0 km,1 hour 42 mins
+Khawalung Monastery,Namo Buddha,41.1 km,1 hour 33 mins
+Khawalung Monastery,Jump KTM,2.3 km,10 mins
+Khawalung Monastery,Art in Paradise Nepal,8.5 km,26 mins
+Khawalung Monastery,Whoopee Land,15.2 km,44 mins
+Khawalung Monastery,Kathmandu Fun Park,7.6 km,23 mins
+Khawalung Monastery,Outdoor Adventure Centre Nepal,7.2 km,23 mins
+Patan Durbar Square,Shivapuri Nagarjun National Park,37.0 km,1 hour 48 mins
+Patan Durbar Square,Bhaktapur Durbar Square,17.2 km,40 mins
+Patan Durbar Square,Phulchoki,19.2 km,49 mins
+Patan Durbar Square,Kulekhani,30.9 km,1 hour 17 mins
+Patan Durbar Square,Namo Buddha,38.5 km,1 hour 24 mins
+Patan Durbar Square,Jump KTM,8.7 km,25 mins
+Patan Durbar Square,Art in Paradise Nepal,3.8 km,13 mins
+Patan Durbar Square,Whoopee Land,6.4 km,21 mins
+Patan Durbar Square,Kathmandu Fun Park,4.3 km,14 mins
+Patan Durbar Square,Outdoor Adventure Centre Nepal,5.9 km,18 mins
+Nagarkot,Shivapuri Nagarjun National Park,58.8 km,2 hours 36 mins
+Nagarkot,Bhaktapur Durbar Square,15.5 km,38 mins
+Nagarkot,Phulchoki,42.1 km,1 hour 41 mins
+Nagarkot,Kulekhani,55.3 km,2 hours 12 mins
+Nagarkot,Namo Buddha,30.9 km,1 hour 10 mins
+Nagarkot,Jump KTM,29.0 km,1 hour 10 mins
+Nagarkot,Art in Paradise Nepal,26.6 km,1 hour 4 mins
+Nagarkot,Whoopee Land,30.8 km,1 hour 15 mins
+Nagarkot,Kathmandu Fun Park,26.6 km,1 hour 4 mins
+Nagarkot,Outdoor Adventure Centre Nepal,28.7 km,1 hour 9 mins
+Chandragiri,Shivapuri Nagarjun National Park,39.8 km,1 hour 58 mins
+Chandragiri,Bhaktapur Durbar Square,28.7 km,1 hour 8 mins
+Chandragiri,Phulchoki,29.8 km,1 hour 12 mins
+Chandragiri,Kulekhani,38.4 km,1 hour 32 mins
+Chandragiri,Namo Buddha,49.9 km,1 hour 52 mins
+Chandragiri,Jump KTM,17.5 km,46 mins
+Chandragiri,Art in Paradise Nepal,10.8 km,30 mins
+Chandragiri,Whoopee Land,9.5 km,29 mins
+Chandragiri,Kathmandu Fun Park,12.3 km,34 mins
+Chandragiri,Outdoor Adventure Centre Nepal,11.9 km,33 mins
+Shivapuri Nagarjun National Park,Shivapuri Nagarjun National Park,1 m,1 min
+Shivapuri Nagarjun National Park,Bhaktapur Durbar Square,50.6 km,2 hours 14 mins
+Shivapuri Nagarjun National Park,Phulchoki,58.0 km,2 hours 36 mins
+Shivapuri Nagarjun National Park,Kulekhani,65.6 km,2 hours 55 mins
+Shivapuri Nagarjun National Park,Namo Buddha,72.6 km,2 hours 59 mins
+Shivapuri Nagarjun National Park,Jump KTM,29.9 km,1 hour 27 mins
+Shivapuri Nagarjun National Park,Art in Paradise Nepal,34.4 km,1 hour 42 mins
+Shivapuri Nagarjun National Park,Whoopee Land,39.2 km,1 hour 56 mins
+Shivapuri Nagarjun National Park,Kathmandu Fun Park,34.0 km,1 hour 40 mins
+Shivapuri Nagarjun National Park,Outdoor Adventure Centre Nepal,31.8 km,1 hour 35 mins
+Bhaktapur Durbar Square,Shivapuri Nagarjun National Park,50.4 km,2 hours 17 mins
+Bhaktapur Durbar Square,Bhaktapur Durbar Square,1 m,1 min
+Bhaktapur Durbar Square,Phulchoki,33.7 km,1 hour 23 mins
+Bhaktapur Durbar Square,Kulekhani,46.9 km,1 hour 54 mins
+Bhaktapur Durbar Square,Namo Buddha,31.0 km,1 hour 11 mins
+Bhaktapur Durbar Square,Jump KTM,20.6 km,52 mins
+Bhaktapur Durbar Square,Art in Paradise Nepal,18.2 km,46 mins
+Bhaktapur Durbar Square,Whoopee Land,22.4 km,57 mins
+Bhaktapur Durbar Square,Kathmandu Fun Park,18.2 km,46 mins
+Bhaktapur Durbar Square,Outdoor Adventure Centre Nepal,20.3 km,50 mins
+Phulchoki,Shivapuri Nagarjun National Park,58.0 km,2 hours 37 mins
+Phulchoki,Bhaktapur Durbar Square,34.7 km,1 hour 23 mins
+Phulchoki,Phulchoki,1 m,1 min
+Phulchoki,Kulekhani,45.7 km,1 hour 54 mins
+Phulchoki,Namo Buddha,55.9 km,2 hours 7 mins
+Phulchoki,Jump KTM,28.2 km,1 hour 11 mins
+Phulchoki,Art in Paradise Nepal,23.4 km,1 hour 1 min
+Phulchoki,Whoopee Land,21.2 km,57 mins
+Phulchoki,Kathmandu Fun Park,23.8 km,1 hour 2 mins
+Phulchoki,Outdoor Adventure Centre Nepal,25.5 km,1 hour 6 mins
+Kulekhani,Shivapuri Nagarjun National Park,65.3 km,2 hours 56 mins
+Kulekhani,Bhaktapur Durbar Square,47.9 km,1 hour 53 mins
+Kulekhani,Phulchoki,45.7 km,1 hour 53 mins
+Kulekhani,Kulekhani,1 m,1 min
+Kulekhani,Namo Buddha,69.1 km,2 hours 37 mins
+Kulekhani,Jump KTM,40.0 km,1 hour 39 mins
+Kulekhani,Art in Paradise Nepal,33.7 km,1 hour 24 mins
+Kulekhani,Whoopee Land,27.0 km,1 hour 8 mins
+Kulekhani,Kathmandu Fun Park,33.6 km,1 hour 26 mins
+Kulekhani,Outdoor Adventure Centre Nepal,35.2 km,1 hour 27 mins
+Namo Buddha,Shivapuri Nagarjun National Park,72.6 km,3 hours 2 mins
+Namo Buddha,Bhaktapur Durbar Square,31.0 km,1 hour 11 mins
+Namo Buddha,Phulchoki,55.8 km,2 hours 7 mins
+Namo Buddha,Kulekhani,69.1 km,2 hours 38 mins
+Namo Buddha,Namo Buddha,1 m,1 min
+Namo Buddha,Jump KTM,42.8 km,1 hour 36 mins
+Namo Buddha,Art in Paradise Nepal,40.3 km,1 hour 30 mins
+Namo Buddha,Whoopee Land,44.6 km,1 hour 41 mins
+Namo Buddha,Kathmandu Fun Park,40.4 km,1 hour 30 mins
+Namo Buddha,Outdoor Adventure Centre Nepal,42.4 km,1 hour 35 mins
+Jump KTM,Shivapuri Nagarjun National Park,29.9 km,1 hour 27 mins
+Jump KTM,Bhaktapur Durbar Square,20.8 km,48 mins
+Jump KTM,Phulchoki,28.1 km,1 hour 10 mins
+Jump KTM,Kulekhani,38.2 km,1 hour 36 mins
+Jump KTM,Namo Buddha,42.7 km,1 hour 32 mins
+Jump KTM,Jump KTM,1 m,1 min
+Jump KTM,Art in Paradise Nepal,6.9 km,19 mins
+Jump KTM,Whoopee Land,13.6 km,37 mins
+Jump KTM,Kathmandu Fun Park,5.9 km,17 mins
+Jump KTM,Outdoor Adventure Centre Nepal,5.8 km,16 mins
+Art in Paradise Nepal,Shivapuri Nagarjun National Park,33.6 km,1 hour 39 mins
+Art in Paradise Nepal,Bhaktapur Durbar Square,20.5 km,46 mins
+Art in Paradise Nepal,Phulchoki,24.7 km,1 hour 1 min
+Art in Paradise Nepal,Kulekhani,35.5 km,1 hour 25 mins
+Art in Paradise Nepal,Namo Buddha,41.7 km,1 hour 30 mins
+Art in Paradise Nepal,Jump KTM,6.6 km,18 mins
+Art in Paradise Nepal,Art in Paradise Nepal,1 m,1 min
+Art in Paradise Nepal,Whoopee Land,9.1 km,26 mins
+Art in Paradise Nepal,Kathmandu Fun Park,2.0 km,6 mins
+Art in Paradise Nepal,Outdoor Adventure Centre Nepal,2.4 km,8 mins
+Whoopee Land,Shivapuri Nagarjun National Park,39.0 km,1 hour 55 mins
+Whoopee Land,Bhaktapur Durbar Square,23.4 km,55 mins
+Whoopee Land,Phulchoki,21.2 km,55 mins
+Whoopee Land,Kulekhani,27.0 km,1 hour 7 mins
+Whoopee Land,Namo Buddha,44.7 km,1 hour 39 mins
+Whoopee Land,Jump KTM,13.7 km,38 mins
+Whoopee Land,Art in Paradise Nepal,7.4 km,23 mins
+Whoopee Land,Whoopee Land,1 m,1 min
+Whoopee Land,Kathmandu Fun Park,8.5 km,26 mins
+Whoopee Land,Outdoor Adventure Centre Nepal,8.9 km,26 mins
+Kathmandu Fun Park,Shivapuri Nagarjun National Park,34.7 km,1 hour 41 mins
+Kathmandu Fun Park,Bhaktapur Durbar Square,19.6 km,43 mins
+Kathmandu Fun Park,Phulchoki,23.8 km,59 mins
+Kathmandu Fun Park,Kulekhani,34.6 km,1 hour 22 mins
+Kathmandu Fun Park,Namo Buddha,40.8 km,1 hour 27 mins
+Kathmandu Fun Park,Jump KTM,6.1 km,18 mins
+Kathmandu Fun Park,Art in Paradise Nepal,1.5 km,5 mins
+Kathmandu Fun Park,Whoopee Land,8.2 km,23 mins
+Kathmandu Fun Park,Kathmandu Fun Park,1 m,1 min
+Kathmandu Fun Park,Outdoor Adventure Centre Nepal,3.6 km,10 mins
+Outdoor Adventure Centre Nepal,Shivapuri Nagarjun National Park,31.5 km,1 hour 33 mins
+Outdoor Adventure Centre Nepal,Bhaktapur Durbar Square,21.3 km,48 mins
+Outdoor Adventure Centre Nepal,Phulchoki,25.6 km,1 hour 3 mins
+Outdoor Adventure Centre Nepal,Kulekhani,35.4 km,1 hour 25 mins
+Outdoor Adventure Centre Nepal,Namo Buddha,42.6 km,1 hour 32 mins
+Outdoor Adventure Centre Nepal,Jump KTM,5.2 km,14 mins
+Outdoor Adventure Centre Nepal,Art in Paradise Nepal,3.3 km,10 mins
+Outdoor Adventure Centre Nepal,Whoopee Land,9.1 km,26 mins
+Outdoor Adventure Centre Nepal,Kathmandu Fun Park,2.9 km,8 mins
+Outdoor Adventure Centre Nepal,Outdoor Adventure Centre Nepal,1 m,1 min
